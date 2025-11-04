@@ -78,7 +78,7 @@ jupyter notebook Practise\_Questions.ipynb
 
 1.Clone this repository:
 
-&nbsp;git clone https://github.com/sayalitakekar/python-practice-assignment.git
+git clone https://github.com/sayalitakekar/python-practice-assignment.git
 
 2.Open the Jupyter Notebook.
 
@@ -105,4 +105,5 @@ In future updates:
 * Add more questions with increasing difficulty levels.
 * Include examples for object-oriented programming (OOP) in Python.
 * Add visualizations using matplotlib and pandas.
+
 
