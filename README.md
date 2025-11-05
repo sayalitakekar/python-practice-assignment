@@ -2,7 +2,7 @@
 
 
 
-This repository contains solutions for \*\*10 Python practice questions\*\* implemented in a Jupyter Notebook.  
+This repository contains solutions for \*\* Python practice questions\*\* implemented in a Jupyter Notebook.  
 
 The exercises focus on Python fundamentals such as loops, conditionals, functions, lists, dictionaries, and exception handling.
 
@@ -105,5 +105,6 @@ In future updates:
 * Add more questions with increasing difficulty levels.
 * Include examples for object-oriented programming (OOP) in Python.
 * Add visualizations using matplotlib and pandas.
+
 
 
